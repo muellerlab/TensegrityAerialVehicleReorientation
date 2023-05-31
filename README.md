@@ -52,5 +52,7 @@ To create and test your own tensegrity vehicle, you can modify parameters such a
 
 ## Acknowledgement
 Co-authors of the paper: Xiangyu Wu, Ryan Dimick, Mark. W. Mueller
+
 Collaborators who have contributted to the tensegrity aerial vehicle developement: Joey Kroeger, Natalia Perez, Bryan Yang
+
 Scholars who have provided their insights on the tensegrity aerial vehicle: Alice Agogino, Alan Zhang, Douglas Hutchings, Kévin Garanger
