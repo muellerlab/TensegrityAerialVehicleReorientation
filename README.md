@@ -19,7 +19,7 @@ In addition, the code uses [py3dmath](https://github.com/muellerlab/TensegrityAe
 
 We also provide a [conda](https://docs.conda.io/projects/conda/en/latest/index.html) environment file to help with the environment setup process. Simply run
 ```
-conda env create -f environment.yml
+conda env create -f tensegrity_reorientation.yml
 ```
 with the provided yml file in your terminal to setup a proper python environment to run the code. 
 
