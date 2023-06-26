@@ -44,7 +44,7 @@ To recreate the additional payload analysis in the paper, run:
 ```
 python reorientation_payload_capacity.py
 ```
-
+the code will generate a graph, whose connections are labelled with maximum payload mass that can be added to the vehicle center of mass before the rotation fails. The left value stands for the mass with the zero-thrust-sum condition, whereas the right value stands for the mass without the zero-thrust-sum condition.
 
 ## Using this software as tensegrity design and analysis tool: 
 To create and test your own tensegrity vehicle, you can modify parameters such as mass, size, moment of inertia, etc. The ```tensegrity``` folder contains the class object that keeps track of the tensegrity class. The ```reorient``` folder contains code that helps check the feasibility of rotation and plan the re-orientation route.
